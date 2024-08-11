@@ -1,0 +1,8 @@
+credentials.json
+token.json
+# pychache
+__pycache__/
+# python
+*.pyc
+# vim
+*.swp
